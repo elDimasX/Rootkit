@@ -22,4 +22,4 @@ Esse rootkit foi feito apenas visando para se permanencer na máquina (o que dev
 Lembre-se de que este é apenas um exemplo, não use-o para fins maliciosos ou anti-éticos, mas sim, para aprender e adquirir conhecimento. Obrigado!
 
 ## Vídeo exemplar
-https://youtu.be/8FrmN7JSTOY
+[https://youtu.be/8FrmN7JSTOY](https://github.com/elDimasX/Rootkit/blob/main/Rootkit/video/RootKit%20-%20video%20exemple.mp4)
