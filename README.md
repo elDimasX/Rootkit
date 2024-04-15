@@ -19,7 +19,8 @@ Esse rootkit foi feito apenas visando para se permanencer na máquina (o que dev
 <br/>Lembre-se de que o foco deste rootkit é apenas tentar permanecer na máquina, e nada mais. Existe muitas outras coisas nas quais não expliquei, mas isso deve dar uma base para você.
 
 ## Cuidado
-Lembre-se de que este é apenas um exemplo, não use-o para fins maliciosos ou anti-éticos, mas sim, para aprender e adquirir conhecimento. Obrigado!
+Lembre-se de que este é apenas um exemplo, não use-o para fins maliciosos ou anti-éticos, mas sim, para aprender e adquirir conhecimento. Também recomendo fortemente que não instale no Windows 10, pois ele não verifica a assinatura, impedindo que você até acesse o modo de recuperação. Obrigado!
+
 
 ## Vídeo exemplar
 
