@@ -1,5 +1,5 @@
 # Rootkit
-Um RootKit (simples) & Funcional para exemplos de persistência.
+Um RootKit (simples) & Funcional para exemplos de persistência. Ele foi feito em apenas 1 dia, então desculpe-me se algo estiver errado ou esqueci de melhorar alguma coisa.
 
 ## Base
 Um rootkit é um tipo de malware que se instala e se oculta da máquina, tornando-o muito difícil de remover. Neste exemplo, quis dar uma demonstração de que, se bem feito, um rootkit pode ser uma ameaça extremamente difícil de ser removida.
